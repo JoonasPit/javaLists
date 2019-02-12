@@ -2,6 +2,10 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.ArrayList;
 // Uses Henkilo.java
+// Henkilo henkilo = null;
+// olioexisist = false
+// if olio = true
+// tapahtuu
 
 public class HenkilolistaSovellus {
 	Henkilo person = new Henkilo();
